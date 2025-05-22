@@ -69,11 +69,11 @@ A fun and interactive web app that fetches random programming jokes and reads th
 
 ### 🔙 Previous Project
 
- - Picture in Picture → [View Repository](https://github.com/DalaScript/picture-in-picture)
+ - Picture in Picture | *[Project 3/20]* → [View Repository](https://github.com/DalaScript/picture-in-picture)
 
 ### 🔜 Next Project
 
- - Light & Dark Mode → [View Repository](https://github.com/DalaScript/light-dark-mode)
+ - Light & Dark Mode | *[Project 5/20]* → [View Repository](https://github.com/DalaScript/light-dark-mode)
 
 ---
 
