@@ -15,6 +15,7 @@ A fun and interactive web app that fetches random programming jokes and reads th
 - [🧠 My process](#-my-process)
   - [🛠️ Built with](#️-built-with)
   - [🎓 What I learned](#-what-i-learned)
+  - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
@@ -26,7 +27,7 @@ A fun and interactive web app that fetches random programming jokes and reads th
 
 ### 📸 Screenshot
 
-![](./assets/screenshot.jpg)
+![screenshot of the project's webpage](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -37,9 +38,10 @@ A fun and interactive web app that fetches random programming jokes and reads th
 
  - ✅ Fetches random programming jokes using the JokeAPI.
  - ✅ Converts joke text to audio using VoiceRSS Text-to-Speech API.
- - ✅ Simple, responsive design with animated robot background.
  - ✅ Disabled button while audio plays to prevent overlaps.
  - ✅ Fully client-side project with clean JavaScript and styling.
+
+---
 
 ## 🧠 My Process
 
@@ -47,7 +49,7 @@ A fun and interactive web app that fetches random programming jokes and reads th
 
  - HTML5
  - CSS3
- - JavaScript (ES6+)
+ - Vanilla JavaScript
  - [JokeAPI](https://jokeapi.dev/)
  - [VoiceRSS API](https://www.voicerss.org/)
 
@@ -56,6 +58,18 @@ A fun and interactive web app that fetches random programming jokes and reads th
  - Working with async/await to fetch API data.
  - Using third-party APIs for voice synthesis.
  - Managing UI state during audio playback.
+
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
+
+### 🔙 Previous Project
+
+ - Picture in Picture → [View Repository](https://github.com/DalaScript/picture-in-picture)
 
 ### 🔜 Next Project
 
