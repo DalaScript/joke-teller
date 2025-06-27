@@ -17,6 +17,7 @@ A fun and interactive web app that fetches random programming jokes and reads th
   - [🎓 What I learned](#-what-i-learned)
   - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
+  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
@@ -27,7 +28,7 @@ A fun and interactive web app that fetches random programming jokes and reads th
 
 ### 📸 Screenshot
 
-![screenshot of the project's webpage](./assets/screenshot.jpg)
+![Live Preview Screenshot](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -74,6 +75,13 @@ A fun and interactive web app that fetches random programming jokes and reads th
 ### 🔜 Next Project
 
  - Light & Dark Mode | *[Project 5/20]* → [View Repository](https://github.com/DalaScript/light-dark-mode)
+
+### 🗃️ Useful resources
+
+ - [Text-to-Speech API (VoiceRSS)](https://www.voicerss.org/api/) – Free TTS API used to convert text jokes into speech.
+ - [JokeAPI](https://sv443.net/jokeapi/v2/) – Robust joke API supporting categories, filters, and formats.
+ - [W3Schools - Audio DOM Reference](https://www.w3schools.com/tags/ref_av_dom.asp) – DOM methods and events for handling HTML audio elements.
+ - [Hiding API Keys On Server](https://stackoverflow.com/questions/47822525/where-to-hide-an-api-key) – Community discussion on best practices for securing API keys.
 
 ---
 
