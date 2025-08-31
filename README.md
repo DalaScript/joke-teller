@@ -53,6 +53,13 @@ A fun and interactive web app that fetches random programming jokes and reads th
 
 ## 🧠 My Process
 
+### 🗃️ Useful resources
+
+- [Text-to-Speech API (VoiceRSS)](https://www.voicerss.org/api/)
+- [JokeAPI](https://sv443.net/jokeapi/v2/)
+- [W3Schools - Audio DOM Reference](https://www.w3schools.com/tags/ref_av_dom.asp)
+- [Hiding API Keys On Server](https://stackoverflow.com/questions/47822525/where-to-hide-an-api-key)
+
 ### 🔙 Previous Project
 
 - Picture in Picture | *Project 3/20* → [View Repository](https://github.com/DalaScript/picture-in-picture)
@@ -60,13 +67,6 @@ A fun and interactive web app that fetches random programming jokes and reads th
 ### 🔜 Next Project
 
 - Light & Dark Mode | *Project 5/20* → [View Repository](https://github.com/DalaScript/light-dark-mode)
-
-### 🗃️ Useful resources
-
-- [Text-to-Speech API (VoiceRSS)](https://www.voicerss.org/api/)
-- [JokeAPI](https://sv443.net/jokeapi/v2/)
-- [W3Schools - Audio DOM Reference](https://www.w3schools.com/tags/ref_av_dom.asp)
-- [Hiding API Keys On Server](https://stackoverflow.com/questions/47822525/where-to-hide-an-api-key)
 
 ---
 
