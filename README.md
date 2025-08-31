@@ -41,10 +41,6 @@ A fun and interactive web app that fetches random programming jokes and reads th
 - ✅ Disabled button while audio plays to prevent overlaps.
 - ✅ Fully client-side project with clean JavaScript and styling.
 
----
-
-## 🧠 My Process
-
 ### 🛠️ Built with
 
 - HTML5
@@ -52,6 +48,10 @@ A fun and interactive web app that fetches random programming jokes and reads th
 - Vanilla JavaScript
 - [JokeAPI](https://jokeapi.dev/)
 - [VoiceRSS API](https://www.voicerss.org/)
+
+---
+
+## 🧠 My Process
 
 ### 🔙 Previous Project
 
